@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #My LinkedIn
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mukesh-lomror-a05731161/)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+
+💻Languages
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,py,html,css,sql,regex,jquery,bash)](https://skillicons.dev)
+
+
+🧰 Frameworks/Libraries/Databases
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,jquery,firebase,postgres,regex,bootstrap,tailwind,)](https://skillicons.dev)
+
+
+🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,powershall,figma,vite,netlify)](https://skillicons.dev)
