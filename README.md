@@ -15,16 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #My LinkedIn
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mukesh-lomror-a05731161/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukesh-lomror-a05731161/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 💻Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,py,html,css,sql,regex,jquery,bash)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,py,html,css,regex,jquery,bash" />
+  </a>
+</p>
 
 🧰 Frameworks/Libraries/Databases
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,jquery,firebase,postgres,regex,bootstrap,tailwind,)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,jquery,firebase,postgres,regex,bootstrap,tailwind" />
+  </a>
+</p>
 
 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,powershall,figma,vite,netlify)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershall,figma,vite,netlify" />
+  </a>
+</p>
