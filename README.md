@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hey! I am Mukesh 👋
+I'm looking to expand my knowledge in Web Development and Software Engineering. I'm experienced in both Front-end and Full-stack development. Pleasure to meet you!
 <!--
 **mukeshlomror/MukeshLomror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
