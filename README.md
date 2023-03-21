@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#My LinkedIn
+# My LinkedIn
 <p align="center">
   <a href="https://www.linkedin.com/in/mukesh-lomror-a05731161/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
-💻Languages
+# 💻Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-🧰 Frameworks/Libraries/Databases
+# 🧰 Frameworks/Libraries/Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-🔧 Tools
+# 🔧 Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
