@@ -28,7 +28,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 - 🔭 I’m currently working on **Spring boot, Spring Security**  
   
 
-- 🌱 I’m currently learning Kotlin and Kubernetes
+- 🌱 I’m currently learning Reactjs with focus on MERN Stack
 - 👨‍💻 All of my projects are available at [My gitHub](https://github.com/mukeshlomror)
   
 
@@ -36,7 +36,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 - 📫 How to reach me **mukeshlomror15@gmail.com**
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I have a habit of running daily    
 
 
 </td><td valign="top" width="50%" border="none">
